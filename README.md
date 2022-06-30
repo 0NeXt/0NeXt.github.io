@@ -16,4 +16,4 @@
 0next.xyz הוא האתר שלי בו אני שם את הפרויקטים שלי ודברים אחרים
 
 Deutsche (German)
-0Next.xyz ist meine Website, auf der ich meine Projekte und andere Sachen platze
+0Next.xyz ist meine Website, auf der ich mein Projekte und andere Sachen platze
